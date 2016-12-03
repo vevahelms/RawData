@@ -1,3 +1,3 @@
 # RawData
 
-Raw files (of reasonable size)
+Raw files when data not pulled from an API
